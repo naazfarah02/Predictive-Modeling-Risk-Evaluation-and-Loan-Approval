@@ -1,2 +1,2 @@
 # Predictive-Modeling---Risk-Evaluation-and-Loan-Approval
-The objective is to develop a predictive model that simultaneously predicts the risk score of loan applicants and assesses their eligibility for loan approval.
+This study helps address problems of Rule-based loan approval systems that are time-consuming to maintain, rigid and inflexible, and often fail to capture complex interactions between variables. They are also susceptible to human bias and, importantly, are not predictive, limiting their ability to support accurate, data-driven decision-making. The goal is to to address these problems by applying machine learning techniques to develop an automated loan approval prediction system that improves decision accuracy, consistency and efficiency.
